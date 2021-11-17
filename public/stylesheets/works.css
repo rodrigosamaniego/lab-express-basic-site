@@ -1,0 +1,23 @@
+
+body{
+    background-color: lightcyan;
+    
+}
+
+.container-fluid{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+  
+    background-color: transparent;
+}
+
+
+.lista{
+    
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+
